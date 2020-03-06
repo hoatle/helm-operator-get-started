@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: hoatle/podinfo
-      tag: dev-eanizp2l
+      tag: dev-vih4k7tg
     replicaCount: 1
     hpa:
       enabled: false
