@@ -19,7 +19,7 @@ spec:
       tag: stg-adsz1ujn
     replicaCount: 2
     hpa:
-      enabled: true
+      enabled: false
       maxReplicas: 10
       cpu: 50
       memory: 256Mi
